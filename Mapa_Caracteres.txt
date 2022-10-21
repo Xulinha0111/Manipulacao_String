@@ -1,0 +1,6 @@
+mapa de caracteres pra br's: 
+# -*- coding: utf-8 -*-
+
+# -*- coding: iso-8859-1 -*-
+
+# -*- coding:  cp-1252 -*-
